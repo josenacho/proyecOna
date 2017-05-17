@@ -1,0 +1,20 @@
+{
+  "name": "proyecOna",
+  "homepage": "https://github.com/josenacho/proyecOna",
+  "authors": [
+    "josenacho <zcyerryxcz_21@hotmail.com>"
+  ],
+  "description": "las saladitas son horneadas",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
